@@ -15,12 +15,12 @@ http://themes.gzk.ink/
 ----------
 在转载本主题时，为了安全，请将下载超链接指向本主题的Github地址。
 
-### 赞赏方式
-----------
-![赞赏](https://i.loli.net/2020/04/05/CdJlrByEo5RZh6c.jpg "赞赏")
-
 ### 感谢 ❤
 ----------
 Typecho、Bootstrap、@wuxiaocong
+
+### 赞赏方式
+----------
+![赞赏](https://i.loli.net/2020/04/05/CdJlrByEo5RZh6c.jpg "赞赏")
 
 
