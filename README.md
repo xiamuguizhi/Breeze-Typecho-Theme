@@ -19,5 +19,8 @@ http://themes.gzk.ink/
 ----------
 ![赞赏](https://i.loli.net/2020/04/05/CdJlrByEo5RZh6c.jpg "赞赏")
 
+### 感谢❤
+----------
+Typecho、Bootstrap、@wuxiaocong
 
 
